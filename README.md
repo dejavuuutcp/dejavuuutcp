@@ -1,5 +1,5 @@
 ### My name is deja vu
-(https://i.pinimg.com/originals/ff/b9/5c/ffb95cedcadd3898b0eb38ae223e0b8c.gif)
+![empty](https://i.pinimg.com/originals/ff/b9/5c/ffb95cedcadd3898b0eb38ae223e0b8c.gif)
 
 Skills: GLUA / LUA / Python / MySQL / Go / Julia / F# / Clojure / Smalltalk / Hack / Idris / OCaml / Solidity / Simula / Modula-2 / Pascal / Penis
 
