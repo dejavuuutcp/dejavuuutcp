@@ -6,5 +6,5 @@ Skills: GLUA / LUA / Python / MySQL / Go / Julia / F# / Clojure / Smalltalk / Ha
 - I’m currently working on init.lua
 - I’m currently learning C++
 [![Discord](https://img.shields.io/badge/Discord-dejavuuubtw-5865F2?logo=discord&logoColor=white)](<https://discord.com/users/1230772109848875091>)
-![ip](https://img.shields.io/badge/ip-127.0.0.1-8A2BE2?style=for-the-badge)
+![ip](https://img.shields.io/badge/ip-127.0.0.1-8A2BE2)
 
