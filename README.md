@@ -1,4 +1,5 @@
-### Hello , i am Dejavu! 👋 ![yay](7a9839de641225b1396448c74bf81ac7.gif)
+### Hello , i am Dejavu! 👋👋👋
+![yay](7a9839de641225b1396448c74bf81ac7.gif)
 
 [![topLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=dejavuuutcp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
