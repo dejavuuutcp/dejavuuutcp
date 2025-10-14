@@ -1,13 +1,9 @@
-### Hi, I'm deja vu  
+### Hello , i am Dejavu! 👋 ![yay](7a9839de641225b1396448c74bf81ac7.gif)
 
-![yay](7a9839de641225b1396448c74bf81ac7.gif)
+[![topLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=dejavuuutcp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left" style="display: flex; align-items: center; gap: 12px;">
-  <a href="https://discord.com/users/1230772109848875091">
-    <img src="https://img.shields.io/badge/Discord-dejavuuubtw-5865F2?logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="http://127.0.0.1">
-    <img src="https://img.shields.io/badge/IP-127.0.0.1-red" alt="IP" />
-  </a>
-  <img src="https://img.shields.io/badge/Brain-undefined-lightgrey" alt="Brain" />
-</div>
+[![Discord](https://img.shields.io/badge/Discord-dejavuuubtw-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1230772109848875091)  
+[![IP](https://img.shields.io/badge/IP-127.0.0.1-red)](http://127.0.0.1)  
+![Brain](https://img.shields.io/badge/Brain-🧠-lightgrey)
+
+![Deja vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejavuuutcp&show_icons=true&theme=dark)
